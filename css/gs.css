@@ -1,6 +1,8 @@
 body {
-  background-image: url("img/Gran-Saga-1-bg.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-color: lightblue;
+}
 
+h1 {
+  color: navy;
+  margin-left: 20px;
 }
