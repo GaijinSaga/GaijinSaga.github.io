@@ -1,5 +1,5 @@
 body {
-  background-image: src=image("img/gsbg.jpg");
+  background-image: src="img/gsbg.jpg";
   background-repeat: no-repeat;
 }
 
