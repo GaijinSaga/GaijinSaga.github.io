@@ -2,6 +2,7 @@ body {
   background-image: url('img/gsbg.png');
   background-repeat: no-repeat;
   background-attachment: scroll;
+  background-size: contain;
 }
 
 p.one {
