@@ -1,10 +1,19 @@
 body {
   background-image: url('img/gsbg.png');
   background-repeat: no-repeat;
-  background-position: right top;
   background-attachment: scroll;
+}
+
+p.one {
+  border-style: groove;
+  border-width: medium;
+  border-color: gray;
+
 
 }
+
+
+
 
 h1 {
   color: navy;
