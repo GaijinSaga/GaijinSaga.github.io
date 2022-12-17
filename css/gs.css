@@ -6,4 +6,8 @@ body {
   background-attachment: fixed;
   background-size: cover;
   }
+  p.ridge {
+    border-style: ridge;
+    border-color: black;
+    }
 }
