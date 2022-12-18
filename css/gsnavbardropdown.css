@@ -1,4 +1,8 @@
 <style>
+li {
+  float: left;
+}
+
 /* Style The Dropdown Button */
 .dropbtn {
   display: inline-block;
