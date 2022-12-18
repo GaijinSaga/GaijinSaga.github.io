@@ -1,17 +1,21 @@
+/* Background image for every page */
 body {
   background-image: url('img/gsbg.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  background-color: gray;
+  opacity: 0.5;
 }
 
+/* Format p.one style */
 p.one {
   border-style: groove;
   border-width: medium;
   border-color: gray;
 }
 
-
+/* For Heading 1 font color */
 h1 {
   color: navy;
   margin-left: 20px;
